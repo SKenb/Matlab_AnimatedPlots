@@ -16,21 +16,21 @@ the animated plot with arbitrary data.
 
 - Examples for the Spring mass system
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/SpringMassSystem/Examples/SpringMass_Center.PNG)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/SpringMassSystem/Examples/SpringMass_Center.PNG)
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/SpringMassSystem/Examples/SpringMass_Extended.PNG)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/SpringMassSystem/Examples/SpringMass_Extended.PNG)
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/SpringMassSystem/Examples/SpringMass_Top.PNG)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/SpringMassSystem/Examples/SpringMass_Top.PNG)
 
 
 
 - Examples for the tank system
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/TankSystem/Examples/Tank_1.PNG)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/TankSystem/Examples/Tank_1.PNG)
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/TankSystem/Examples/Tank_2.PNG)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/TankSystem/Examples/Tank_2.PNG)
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/TankSystem/Examples/Tank_3.PNG)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/SpringMassSystem/master/TankSystem/Examples/Tank_3.PNG)
 
 ![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_SingleTrackModel/master/TankSystem/Examples/Tank_4_Overflow.PNG)
 
