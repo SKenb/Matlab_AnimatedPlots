@@ -16,23 +16,23 @@ the animated plot with arbitrary data.
 
 - Examples for the Spring mass system
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Center.PNG=400x)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Center.PNG)
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Extended.PNG=400x)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Extended.PNG)
 
-![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Top.PNG=400x)
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Top.PNG)
 
 
 
 - Examples for the tank system
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_1.PNG=400x)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_1.PNG)
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_2.PNG=400x)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_2.PNG)
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_3.PNG=400x)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_3.PNG)
 
-![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_4_Overflow.PNG=400x)
+![Example for the Spring tank system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TankSystem/Examples/Tank_4_Overflow.PNG)
 
 
 ## Requirements
