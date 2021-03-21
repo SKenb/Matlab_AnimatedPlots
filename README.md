@@ -5,6 +5,7 @@ Animating different experiments in Matlab.
 ## Experiments
 
 - Spring mass system
+- Hub Magnet
 - Tank system
 
 ## Simulate
@@ -23,6 +24,13 @@ the animated plot with arbitrary data.
 ![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassSystem/Examples/SpringMass_Top.PNG)
 
 
+- Examples for the Hub magnet
+
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/HubMagnet/Examples/Ex1.PNG)
+
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/HubMagnet/Examples/Ex2.PNG)
+
+![Example for the Spring mass system](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/HubMagnet/Examples/Ex3.PNG)
 
 - Examples for the tank system
 
