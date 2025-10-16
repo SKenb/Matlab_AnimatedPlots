@@ -7,6 +7,7 @@ Animating different experiments in Matlab.
 - Spring mass system
 - Hub Magnet
 - Tank system
+- Two-Mass-Spring System
 
 ## Simulate
 
