@@ -50,7 +50,7 @@ the animated plot with arbitrary data.
 
 - Spring-Mass-Wall System
 
-![Example Spring-Mass-Wall System 1](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/blob/main/SpringMassWallSystem/Examples/SpringMass.png)
+![Example Spring-Mass-Wall System 1](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassWallSystem/Examples/SpringMass.png)
 
 ## Requirements
 
