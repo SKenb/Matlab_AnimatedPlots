@@ -8,7 +8,7 @@ Animating different experiments in Matlab.
 - Hub Magnet
 - Tank system
 - Two-Mass-Spring System
-- Spring-Mass System
+- Spring-Mass-Wall System
 
 ## Simulate
 
@@ -48,9 +48,9 @@ the animated plot with arbitrary data.
 
 ![Example Two-Mass-Spring System 1](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/TwoMassSpringSystem/Examples/TwoMassSpringSystem.png)
 
-- Spring-Mass System
+- Spring-Mass-Wall System
 
-![Example Spring-Mass System 1](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMass/Examples/SpringMass.png)
+![Example Spring-Mass-Wall System 1](https://raw.githubusercontent.com/SKenb/Matlab_AnimatedPlots/master/SpringMassWallSystem/Examples/SpringMass.png)
 
 ## Requirements
 
